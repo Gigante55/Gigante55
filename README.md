@@ -1,4 +1,6 @@
-# Eae 👋
+<center><h2> Bem vindo a minha biografia 👍 </h2></center>
+
+![Image gif](tenor.gif)
 
 Esse sou eu Arthur, mais conhecido como Ponton_Silva e na Steam conhecido como Gigante 5.5, trabalho em mods para jogos e criei essa conta no GitHub por que estou fazendo um curso de Git e GitHub.
 
