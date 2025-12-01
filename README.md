@@ -16,37 +16,37 @@ Esse sou eu Arthur, mais conhecido como Ponton_Silva e na Steam conhecido como G
 
 ### Rodentrap
 
-![Image 1](arts/2.jpg)
+![Image 1](2.jpg)
 
 Rodentrap é o mod mais recente que fiz até o momento, ele é um mod de Friday Night Funkin onde agora você batalha contra Arthur em uma batalha de rap
 
 ### Arthur CD
 
-![Image 2](arts/1.jpg)
+![Image 2](1.jpg)
 
 Arthur CD é o mod mais recente que fiz até o momento, ele é um mod de Sonic CD onde o Sonic é substituido pelo meu personagem
 
 ### Arthur 2 (Meio Antigo)
 
-![Image 3](arts/3.jpg)
+![Image 3](3.jpg)
 
 Arthur 2 é um mod de Sonic 2 onde o Sonic é substituido pelo meu personagem
 
 ### Arthur 1 (Meio Antigo)
 
-![Image 4](arts/4.jpg)
+![Image 4](4.jpg)
 
 Arthur 1 é um mod de Sonic 1 de Mega Drive onde o Sonic é substituido pelo meu personagem
 
 ### Arthur the Rapper (Meio Antigo)
 
-![Image 5](arts/5.jpg)
+![Image 5](5.jpg)
 
 Como um dos primeiros mods que fiz, Arthur the Rapper é um mod de PaRappa the Rapper, onde o PaRappa é substituido pelo Arthur
 
 ### Um Jammer Arthur (Meio Antigo)
 
-![Image 6](arts/6.jpg)
+![Image 6](6.jpg)
 
 Como um dos primeiros mods que fiz, Um Jammer Arthur é um mod de Um Jammer Lammy, onde a Lammy é substituido pelo Arthur
 
